@@ -36,8 +36,6 @@ Este projeto tem como objetivo aplicar os conceitos de modulação por largura d
 
 - sh
 - git clone seu repositorio
-- cd semaforo-pico
-
 
 2. **Configurar e compilar o projeto**  
 
@@ -47,8 +45,8 @@ Este projeto tem como objetivo aplicar os conceitos de modulação por largura d
 
 3. **Transferir o firmware para a placa**
 
-- Conectar a placa BitDogLab ao computador
-- Copiar o arquivo .uf2 gerado para o drive da placa
+- Conectar a placa BitDogLab ao computador (Somente para análise do LED, p/ o servomotor, a simulação é feita dentro do próprio vs code + wokwi)
+- Copiar o arquivo .uf2 gerado para o drive da placa (Somente para análise do LED)
 
 4. **Testar o projeto**
 
