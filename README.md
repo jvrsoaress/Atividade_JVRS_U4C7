@@ -57,7 +57,7 @@ Este projeto tem como objetivo aplicar os conceitos de modulação por largura d
 
 ## 🎥 Demonstração: 
 
-- Para ver o funcionamento do projeto, acesse o vídeo de demonstração gravado por José Vinicius em: 
+- Para ver o funcionamento do projeto, acesse o vídeo de demonstração gravado por José Vinicius em: https://youtu.be/6MJAFieaKh8
 
 ## 💻 Desenvolvedor
  
